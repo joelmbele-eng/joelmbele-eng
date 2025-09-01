@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Joel Mbele Makengo
 
-**`Desenvolvedora FullStack - Cienstita de Dados - Formador em Tecnologias`**
+**`Desenvolvedor FullStack - Cienstita de Dados - Formador em Tecnologias`**
 
 Sou Desenvolvedor Fullstack e Analista de Dados com mais de 4 anos de experiência em desenvolvimento de software, automação de processos e análise de dados. Tenho atuado em projetos que envolvem desde a criação de sistemas desktop e aplicações web até o desenvolvimento de dashboards interativos em Power BI e Tableau, usados para apoiar a tomada de decisões estratégicas.
 
