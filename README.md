@@ -1,16 +1,22 @@
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Joel Mbele Makengo
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora FullStack - Cienstita de Dados - Formador em Tecnologias`**
+**`Meu site:https://joelmbele-eng.github.io/site-de-servico/`**
+Sou Desenvolvedor Fullstack e Analista de Dados com mais de 4 anos de experiência em desenvolvimento de software, automação de processos e análise de dados. Tenho atuado em projetos que envolvem desde a criação de sistemas desktop e aplicações web até o desenvolvimento de dashboards interativos em Power BI e Tableau, usados para apoiar a tomada de decisões estratégicas.
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+**`📌Experiência prática`**
+Desenvolvimento de soluções de automação que reduziram o trabalho manual em até 30%.
+Criação de dashboards utilizados por gestores para decisões estratégicas.
+Desenvolvimento front-end e back-end, com foco em usabilidade e otimização de fluxos de trabalho.
+Suporte técnico para mais de 50 utilizadores em ambiente corporativo.
+
+**`💻 Principais competências`**
+Linguagens: Python, SQL, R, JavaScript, C++
+Ferramentas & Frameworks: Power BI, Tableau, SQLite, Flet, CustomTkinter, Qt Designer, GitHub
+Áreas de Atuação: Desenvolvimento Fullstack, Análise de Dados, Business Intelligence, Automação de Processos, Suporte Técnico
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
+   
     </a>
     <a href="https://www.youtube.com/@larissakich">
         <img 
