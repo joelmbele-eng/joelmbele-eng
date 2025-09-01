@@ -1,7 +1,8 @@
 # 👩🏻‍💻 Joel Mbele Makengo
 
 **`Desenvolvedora FullStack - Cienstita de Dados - Formador em Tecnologias`**
-**`Meu site:https://joelmbele-eng.github.io/site-de-servico/`**
+[🌍 Meu Site de Serviços](https://joelmbele-eng.github.io/site-de-servico/)
+**`Meu site:https:`**
 Sou Desenvolvedor Fullstack e Analista de Dados com mais de 4 anos de experiência em desenvolvimento de software, automação de processos e análise de dados. Tenho atuado em projetos que envolvem desde a criação de sistemas desktop e aplicações web até o desenvolvimento de dashboards interativos em Power BI e Tableau, usados para apoiar a tomada de decisões estratégicas.
 
 **`📌Experiência prática`**
